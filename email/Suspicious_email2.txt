@@ -1,0 +1,13 @@
+Employee Payroll Update Requied
+
+Hello Employee,
+
+The HR department has updated payroll records for this month.
+
+Please download and review the attached payroll file immediately.
+
+Attachment:
+Payroll_Update.zip
+
+Thank you,
+HR Department

@@ -1,0 +1,13 @@
+Your Microsoft Account Security Update
+
+Hello Deekshitha,
+
+Your Microsoft account security settings were successfully updated on May 18, 2026.
+
+If you made this change, no further action is required.
+
+You can review your account activity securely at:
+https://account.microsoft.com/security
+
+Thank you,
+Microsoft Security Team

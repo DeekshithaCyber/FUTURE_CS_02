@@ -1,0 +1,13 @@
+Urgent: Your Bank Account Will Be Suspended
+Dear Customer,
+
+We detected suspicious activity in your bank account.
+
+To avoid temporary suspension, verify your account immediately using the secure link below:
+
+[http://secure-bank-verification[.]com](http://secure-bank-verification[.]com)
+
+Failure to verify within 24 hours may result in account suspension.
+
+Regards,
+Bank Security Team
